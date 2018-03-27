@@ -1,8 +1,10 @@
 body {
-    background-image: url("../images/train.jpg");
+    background-image: url("../images/pattern.jpg");
 }
-
 .jumbotron {
-    background-image: url("../images/st.jpg");
-    max-width: 100%;
+    font-family: 'Cinzel', serif;
+    background-image:  url("../images/sky.jpg");
+    background-size: cover;
+    color: rgb(34, 34, 36);
 }
+ 
