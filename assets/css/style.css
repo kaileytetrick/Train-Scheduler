@@ -1,0 +1,8 @@
+body {
+    background-image: url("../images/train.jpg");
+}
+
+.jumbotron {
+    background-image: url("../images/st.jpg");
+    max-width: 100%;
+}
